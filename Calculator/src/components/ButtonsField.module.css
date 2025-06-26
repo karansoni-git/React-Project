@@ -1,0 +1,7 @@
+.buttonsField{
+    width: 380px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
