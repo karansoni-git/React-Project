@@ -1,0 +1,24 @@
+h1{
+    font-size: 40px;
+    margin: 40px;
+}
+input{
+    width: 100%;
+    height: 100%;
+}
+button{
+    min-width: 80px;
+    width: 100%;
+    margin-left: 10px;
+}
+.todoitems{
+    margin: 20px;
+    text-align: left;
+}
+.todoitems div {
+    margin-top: 12px;
+}
+.emptyMsg{
+    margin: 10px;
+    background-color: bisque;
+}
