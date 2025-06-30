@@ -1,0 +1,63 @@
+.Container{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+.sidebar{
+    min-height: 729px;
+}
+.header{
+    min-width: 380px;
+}
+.postCard{
+    height: auto;
+    margin: 20px auto;
+    text-align: center;
+}
+.postCard h5{
+    font-size: 1.7rem;
+    text-transform: capitalize;
+}
+.postCard p{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.postCard .tag{
+    margin: 0px 3px;
+    font-size: 1rem;
+    padding: 0.4rem;
+    text-transform: uppercase;
+}
+.postCard button{
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+.postCard button span{
+    margin: 3px 10px;
+    font-size: 1rem;
+}
+.postCard button .icon{
+    margin-bottom: 6px;
+    font-size: 1.5rem;
+}
+.userIcon{
+    margin: 6px;
+}
+#closeId{
+    width: 1.2rem;
+    height: 1.2rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.createPost{
+    width: 80%;
+    margin: 2rem auto;
+}
+#nopostmsg{
+    margin: 2rem;
+}
+.loading{
+    margin-top: 10rem;
+}
